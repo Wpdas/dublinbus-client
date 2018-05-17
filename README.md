@@ -19,6 +19,11 @@ You have to install the module before you can use it:
 npm install --save dublinbus-client
 ```
 
+If you want, you can run the tests (Mocha):
+```bash
+npm test
+```
+
 How to use it:
 
 ```javascript

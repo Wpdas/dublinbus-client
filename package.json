@@ -1,6 +1,6 @@
 {
   "name": "dublinbus-client",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "RTPI JavaScript Client to get Dublin Bus informations.",
   "main": "lib/index.js",
   "scripts": {
