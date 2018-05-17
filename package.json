@@ -26,5 +26,9 @@
     "eslint": "^4.19.1",
     "mocha": "^5.1.1",
     "nock": "^9.2.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Wpdas/dublinbus-client"
   }
 }
