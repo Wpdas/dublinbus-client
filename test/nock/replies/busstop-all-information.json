@@ -1,0 +1,52 @@
+{
+  "errorcode": "0",
+  "errormessage": "",
+  "numberofresults": 10111,
+  "timestamp": "16/05/2018 23:57:03",
+  "results": [
+    {
+        "stopid": "2",
+        "displaystopid": "2",
+        "shortname": "Parnell Square",
+        "shortnamelocalized": "Cearnóg Parnell",
+        "fullname": "Parnell Square",
+        "fullnamelocalized": "",
+        "latitude": "53.35224111",
+        "longitude": "-6.263695",
+        "lastupdated": "08/05/2018 09:12:08",
+        "operators": [
+            {
+                "name": "bac",
+                "routes": [
+                    "38B",
+                    "38D",
+                    "46A",
+                    "46E",
+                    "38",
+                    "38A"
+                ]
+            }
+        ]
+    },
+    {
+        "stopid": "3",
+        "displaystopid": "3",
+        "shortname": "Parnell Square",
+        "shortnamelocalized": "Cearnóg Parnell",
+        "fullname": "Parnell Square",
+        "fullnamelocalized": "",
+        "latitude": "53.35230694",
+        "longitude": "-6.263783056",
+        "lastupdated": "08/05/2018 09:12:08",
+        "operators": [
+            {
+                "name": "bac",
+                "routes": [
+                    "120",
+                    "122"
+                ]
+            }
+        ]
+    }
+  ]
+}

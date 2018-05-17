@@ -1,0 +1,30 @@
+{
+  "name": "dublinbus-client",
+  "version": "1.0.0",
+  "description": "RTPI JavaScript Client to get Dublin Bus informations.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint lib/* test/**/**/**/**/*.js",
+    "test": "npm run lint && mocha"
+  },
+  "keywords": [
+    "dublinbus",
+    "dublin",
+    "bus",
+    "lib",
+    "api",
+    "ireland"
+  ],
+  "author": "Wenderson Pires",
+  "license": "MIT",
+  "dependencies": {
+    "nconf": "^0.10.0",
+    "request": "^2.86.0",
+    "request-promise-native": "^1.0.5"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "mocha": "^5.1.1",
+    "nock": "^9.2.6"
+  }
+}

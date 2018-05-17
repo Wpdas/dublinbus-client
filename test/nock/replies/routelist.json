@@ -1,0 +1,468 @@
+{
+  "errorcode": "0",
+  "errormessage": "",
+  "numberofresults": 239,
+  "timestamp": "17/05/2018 00:37:06",
+  "results": [
+    {
+        "operator": "bac",
+        "route": "1"
+    },
+    {
+        "operator": "bac",
+        "route": "102"
+    },
+    {
+        "operator": "bac",
+        "route": "104"
+    },
+    {
+        "operator": "bac",
+        "route": "11"
+    },
+    {
+        "operator": "bac",
+        "route": "111"
+    },
+    {
+        "operator": "bac",
+        "route": "114"
+    },
+    {
+        "operator": "bac",
+        "route": "116"
+    },
+    {
+        "operator": "bac",
+        "route": "118"
+    },
+    {
+        "operator": "bac",
+        "route": "120"
+    },
+    {
+        "operator": "bac",
+        "route": "122"
+    },
+    {
+        "operator": "bac",
+        "route": "123"
+    },
+    {
+        "operator": "bac",
+        "route": "13"
+    },
+    {
+        "operator": "bac",
+        "route": "130"
+    },
+    {
+        "operator": "bac",
+        "route": "14"
+    },
+    {
+        "operator": "bac",
+        "route": "140"
+    },
+    {
+        "operator": "bac",
+        "route": "142"
+    },
+    {
+        "operator": "bac",
+        "route": "145"
+    },
+    {
+        "operator": "bac",
+        "route": "14C"
+    },
+    {
+        "operator": "bac",
+        "route": "15"
+    },
+    {
+        "operator": "bac",
+        "route": "150"
+    },
+    {
+        "operator": "bac",
+        "route": "151"
+    },
+    {
+        "operator": "bac",
+        "route": "15A"
+    },
+    {
+        "operator": "bac",
+        "route": "15B"
+    },
+    {
+        "operator": "bac",
+        "route": "15D"
+    },
+    {
+        "operator": "bac",
+        "route": "16"
+    },
+    {
+        "operator": "bac",
+        "route": "161"
+    },
+    {
+        "operator": "bac",
+        "route": "16A"
+    },
+    {
+        "operator": "bac",
+        "route": "16C"
+    },
+    {
+        "operator": "bac",
+        "route": "17"
+    },
+    {
+        "operator": "bac",
+        "route": "17A"
+    },
+    {
+        "operator": "bac",
+        "route": "18"
+    },
+    {
+        "operator": "bac",
+        "route": "184"
+    },
+    {
+        "operator": "bac",
+        "route": "185"
+    },
+    {
+        "operator": "bac",
+        "route": "2"
+    },
+    {
+        "operator": "bac",
+        "route": "220"
+    },
+    {
+        "operator": "bac",
+        "route": "221"
+    },
+    {
+        "operator": "bac",
+        "route": "236"
+    },
+    {
+        "operator": "bac",
+        "route": "238"
+    },
+    {
+        "operator": "bac",
+        "route": "239"
+    },
+    {
+        "operator": "bac",
+        "route": "25"
+    },
+    {
+        "operator": "bac",
+        "route": "25A"
+    },
+    {
+        "operator": "bac",
+        "route": "25B"
+    },
+    {
+        "operator": "bac",
+        "route": "25D"
+    },
+    {
+        "operator": "bac",
+        "route": "25X"
+    },
+    {
+        "operator": "bac",
+        "route": "26"
+    },
+    {
+        "operator": "bac",
+        "route": "27"
+    },
+    {
+        "operator": "bac",
+        "route": "270"
+    },
+    {
+        "operator": "bac",
+        "route": "27A"
+    },
+    {
+        "operator": "bac",
+        "route": "27B"
+    },
+    {
+        "operator": "bac",
+        "route": "27X"
+    },
+    {
+        "operator": "bac",
+        "route": "29A"
+    },
+    {
+        "operator": "bac",
+        "route": "3"
+    },
+    {
+        "operator": "bac",
+        "route": "31"
+    },
+    {
+        "operator": "bac",
+        "route": "31A"
+    },
+    {
+        "operator": "bac",
+        "route": "31B"
+    },
+    {
+        "operator": "bac",
+        "route": "31D"
+    },
+    {
+        "operator": "bac",
+        "route": "32"
+    },
+    {
+        "operator": "bac",
+        "route": "32A"
+    },
+    {
+        "operator": "bac",
+        "route": "32B"
+    },
+    {
+        "operator": "bac",
+        "route": "32X"
+    },
+    {
+        "operator": "bac",
+        "route": "33"
+    },
+    {
+        "operator": "bac",
+        "route": "33A"
+    },
+    {
+        "operator": "bac",
+        "route": "33B"
+    },
+    {
+        "operator": "bac",
+        "route": "33D"
+    },
+    {
+        "operator": "bac",
+        "route": "33X"
+    },
+    {
+        "operator": "bac",
+        "route": "37"
+    },
+    {
+        "operator": "bac",
+        "route": "38"
+    },
+    {
+        "operator": "bac",
+        "route": "38A"
+    },
+    {
+        "operator": "bac",
+        "route": "38B"
+    },
+    {
+        "operator": "bac",
+        "route": "38D"
+    },
+    {
+        "operator": "bac",
+        "route": "39"
+    },
+    {
+        "operator": "bac",
+        "route": "39A"
+    },
+    {
+        "operator": "bac",
+        "route": "39X"
+    },
+    {
+        "operator": "bac",
+        "route": "4"
+    },
+    {
+        "operator": "bac",
+        "route": "40"
+    },
+    {
+        "operator": "bac",
+        "route": "40B"
+    },
+    {
+        "operator": "bac",
+        "route": "40D"
+    },
+    {
+        "operator": "bac",
+        "route": "41"
+    },
+    {
+        "operator": "bac",
+        "route": "41A"
+    },
+    {
+        "operator": "bac",
+        "route": "41B"
+    },
+    {
+        "operator": "bac",
+        "route": "41C"
+    },
+    {
+        "operator": "bac",
+        "route": "41X"
+    },
+    {
+        "operator": "bac",
+        "route": "42"
+    },
+    {
+        "operator": "bac",
+        "route": "42D"
+    },
+    {
+        "operator": "bac",
+        "route": "43"
+    },
+    {
+        "operator": "bac",
+        "route": "44"
+    },
+    {
+        "operator": "bac",
+        "route": "44B"
+    },
+    {
+        "operator": "bac",
+        "route": "45"
+    },
+    {
+        "operator": "bac",
+        "route": "45A"
+    },
+    {
+        "operator": "bac",
+        "route": "46A"
+    },
+    {
+        "operator": "bac",
+        "route": "46E"
+    },
+    {
+        "operator": "bac",
+        "route": "47"
+    },
+    {
+        "operator": "bac",
+        "route": "49"
+    },
+    {
+        "operator": "bac",
+        "route": "51D"
+    },
+    {
+        "operator": "bac",
+        "route": "51X"
+    },
+    {
+        "operator": "bac",
+        "route": "53"
+    },
+    {
+        "operator": "bac",
+        "route": "54A"
+    },
+    {
+        "operator": "bac",
+        "route": "56A"
+    },
+    {
+        "operator": "bac",
+        "route": "59"
+    },
+    {
+        "operator": "bac",
+        "route": "61"
+    },
+    {
+        "operator": "bac",
+        "route": "63"
+    },
+    {
+        "operator": "bac",
+        "route": "65"
+    },
+    {
+        "operator": "bac",
+        "route": "65B"
+    },
+    {
+        "operator": "bac",
+        "route": "66"
+    },
+    {
+        "operator": "bac",
+        "route": "66A"
+    },
+    {
+        "operator": "bac",
+        "route": "66B"
+    },
+    {
+        "operator": "bac",
+        "route": "66X"
+    },
+    {
+        "operator": "bac",
+        "route": "67"
+    },
+    {
+        "operator": "bac",
+        "route": "67X"
+    },
+    {
+        "operator": "bac",
+        "route": "68"
+    },
+    {
+        "operator": "bac",
+        "route": "68A"
+    },
+    {
+        "operator": "bac",
+        "route": "68X"
+    },
+    {
+        "operator": "bac",
+        "route": "69"
+    },
+    {
+        "operator": "bac",
+        "route": "69X"
+    },
+    {
+        "operator": "bac",
+        "route": "7"
+    }
+  ]
+}

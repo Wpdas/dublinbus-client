@@ -1,0 +1,287 @@
+{
+  "errorcode": "0",
+  "errormessage": "",
+  "numberofresults": 13,
+  "timestamp": "17/05/2018 01:49:14",
+  "results": [
+      {
+          "stopid": "2",
+          "displaystopid": "2",
+          "shortname": "Parnell Square",
+          "shortnamelocalized": "Cearnóg Parnell",
+          "fullname": "Parnell Square",
+          "fullnamelocalized": "",
+          "latitude": "53.35224111",
+          "longitude": "-6.263695",
+          "lastupdated": "08/05/2018 09:12:08",
+          "operators": [
+              {
+                  "name": "bac",
+                  "routes": [
+                      "38B",
+                      "38D",
+                      "46A",
+                      "46E",
+                      "38",
+                      "38A"
+                  ]
+              }
+          ]
+      },
+      {
+          "stopid": "3",
+          "displaystopid": "3",
+          "shortname": "Parnell Square",
+          "shortnamelocalized": "Cearnóg Parnell",
+          "fullname": "Parnell Square",
+          "fullnamelocalized": "",
+          "latitude": "53.35230694",
+          "longitude": "-6.263783056",
+          "lastupdated": "08/05/2018 09:12:08",
+          "operators": [
+              {
+                  "name": "bac",
+                  "routes": [
+                      "120",
+                      "122"
+                  ]
+              }
+          ]
+      },
+      {
+          "stopid": "4",
+          "displaystopid": "4",
+          "shortname": "Parnell Square",
+          "shortnamelocalized": "Cearnóg Parnell",
+          "fullname": "Parnell Square",
+          "fullnamelocalized": "",
+          "latitude": "53.35256694",
+          "longitude": "-6.264166111",
+          "lastupdated": "30/04/2018 09:37:46",
+          "operators": [
+              {
+                  "name": "bac",
+                  "routes": [
+                      "9",
+                      "7D",
+                      "7A",
+                      "7B",
+                      "7"
+                  ]
+              }
+          ]
+      },
+      {
+          "stopid": "6",
+          "displaystopid": "6",
+          "shortname": "Parnell Square",
+          "shortnamelocalized": "Cearnóg Parnell",
+          "fullname": "Parnell Square",
+          "fullnamelocalized": "",
+          "latitude": "53.35274389",
+          "longitude": "-6.264443056",
+          "lastupdated": "14/05/2018 09:11:40",
+          "operators": [
+              {
+                  "name": "bac",
+                  "routes": [
+                      "4"
+                  ]
+              }
+          ]
+      },
+      {
+          "stopid": "7",
+          "displaystopid": "7",
+          "shortname": "Parnell Square",
+          "shortnamelocalized": "Cearnóg Parnell",
+          "fullname": "Parnell Square",
+          "fullnamelocalized": "",
+          "latitude": "53.35283611",
+          "longitude": "-6.264561944",
+          "lastupdated": "14/05/2018 09:11:40",
+          "operators": [
+              {
+                  "name": "bac",
+                  "routes": [
+                      "40",
+                      "40B",
+                      "40D",
+                      "140",
+                      "13"
+                  ]
+              }
+          ]
+      },
+      {
+          "stopid": "8",
+          "displaystopid": "8",
+          "shortname": "Parnell Square",
+          "shortnamelocalized": "Cearnóg Parnell",
+          "fullname": "Parnell Square",
+          "fullnamelocalized": "",
+          "latitude": "53.35328111",
+          "longitude": "-6.265155",
+          "lastupdated": "14/05/2018 09:11:41",
+          "operators": [
+              {
+                  "name": "bac",
+                  "routes": [
+                      "16"
+                  ]
+              }
+          ]
+      },
+      {
+          "stopid": "10",
+          "displaystopid": "10",
+          "shortname": "Parnell Square",
+          "shortnamelocalized": "Cearnóg Parnell",
+          "fullname": "Parnell Square",
+          "fullnamelocalized": "",
+          "latitude": "53.35338694",
+          "longitude": "-6.265383889",
+          "lastupdated": "14/05/2018 09:11:38",
+          "operators": [
+              {
+                  "name": "bac",
+                  "routes": [
+                      "16",
+                      "16C",
+                      "1",
+                      "11",
+                      "44"
+                  ]
+              }
+          ]
+      },
+      {
+          "stopid": "261",
+          "displaystopid": "261",
+          "shortname": "Parnell Square",
+          "shortnamelocalized": "Cearnóg Parnell",
+          "fullname": "Parnell Square",
+          "fullnamelocalized": "",
+          "latitude": "53.35405",
+          "longitude": "-6.262833889",
+          "lastupdated": "08/05/2018 09:12:08",
+          "operators": [
+              {
+                  "name": "bac",
+                  "routes": [
+                      "40",
+                      "13",
+                      "11",
+                      "116",
+                      "747"
+                  ]
+              }
+          ]
+      },
+      {
+          "stopid": "262",
+          "displaystopid": "262",
+          "shortname": "Parnell Square",
+          "shortnamelocalized": "Cearnóg Parnell",
+          "fullname": "Parnell Square",
+          "fullnamelocalized": "",
+          "latitude": "53.35394694",
+          "longitude": "-6.262723056",
+          "lastupdated": "08/05/2018 09:12:08",
+          "operators": [
+              {
+                  "name": "bac",
+                  "routes": [
+                      "16C",
+                      "16"
+                  ]
+              }
+          ]
+      },
+      {
+          "stopid": "263",
+          "displaystopid": "263",
+          "shortname": "Parnell Square",
+          "shortnamelocalized": "Cearnóg Parnell",
+          "fullname": "Parnell Square",
+          "fullnamelocalized": "",
+          "latitude": "53.35374111",
+          "longitude": "-6.262483056",
+          "lastupdated": "08/05/2018 09:12:08",
+          "operators": [
+              {
+                  "name": "bac",
+                  "routes": [
+                      "9",
+                      "120",
+                      "122"
+                  ]
+              }
+          ]
+      },
+      {
+          "stopid": "264",
+          "displaystopid": "264",
+          "shortname": "Parnell Square",
+          "shortnamelocalized": "Cearnóg Parnell",
+          "fullname": "Parnell Square",
+          "fullnamelocalized": "",
+          "latitude": "53.35352806",
+          "longitude": "-6.26223",
+          "lastupdated": "08/05/2018 09:12:08",
+          "operators": [
+              {
+                  "name": "bac",
+                  "routes": [
+                      "140",
+                      "46A"
+                  ]
+              }
+          ]
+      },
+      {
+          "stopid": "265",
+          "displaystopid": "265",
+          "shortname": "Parnell Square",
+          "shortnamelocalized": "Cearnóg Parnell",
+          "fullname": "Parnell Square",
+          "fullnamelocalized": "",
+          "latitude": "53.35335806",
+          "longitude": "-6.26203",
+          "lastupdated": "08/05/2018 09:12:08",
+          "operators": [
+              {
+                  "name": "bac",
+                  "routes": [
+                      "44",
+                      "38D",
+                      "38B",
+                      "1",
+                      "38A",
+                      "38"
+                  ]
+              }
+          ]
+      },
+      {
+          "stopid": "4726",
+          "displaystopid": "4726",
+          "shortname": "Parnell Square",
+          "shortnamelocalized": "Cearnóg Parnell",
+          "fullname": "Parnell Square",
+          "fullnamelocalized": "",
+          "latitude": "53.35425806",
+          "longitude": "-6.264076111",
+          "lastupdated": "30/04/2018 09:37:46",
+          "operators": [
+              {
+                  "name": "bac",
+                  "routes": [
+                      "747",
+                      "46E"
+                  ]
+              }
+          ]
+      }
+  ]
+}

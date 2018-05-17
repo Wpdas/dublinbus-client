@@ -1,0 +1,47 @@
+{
+  "errorcode": "0",
+  "errormessage": "",
+  "numberofresults": 25,
+  "stopid": "515",
+  "timestamp": "16/05/2018 19:32:34",
+  "results": [
+      {
+        "arrivaldatetime": "16/05/2018 19:37:22",
+        "duetime": "4",
+        "departuredatetime": "16/05/2018 19:37:22",
+        "departureduetime": "4",
+        "scheduledarrivaldatetime": "16/05/2018 19:38:00",
+        "scheduleddeparturedatetime": "16/05/2018 19:38:00",
+        "destination": "Beaumont",
+        "destinationlocalized": "Beaumont",
+        "origin": "Dundrum",
+        "originlocalized": "Dundrum",
+        "direction": "Inbound",
+        "operator": "bac",
+        "additionalinformation": "",
+        "lowfloorstatus": "no",
+        "route": "14",
+        "sourcetimestamp": "16/05/2018 19:31:44",
+        "monitored": "true"
+    },
+    {
+        "arrivaldatetime": "16/05/2018 19:37:30",
+        "duetime": "4",
+        "departuredatetime": "16/05/2018 19:37:30",
+        "departureduetime": "4",
+        "scheduledarrivaldatetime": "16/05/2018 19:30:00",
+        "scheduleddeparturedatetime": "16/05/2018 19:30:00",
+        "destination": "Clongriffin",
+        "destinationlocalized": "Cluain Ghrífín",
+        "origin": "Ballycullen Rd",
+        "originlocalized": "Ballycullen Rd",
+        "direction": "Inbound",
+        "operator": "bac",
+        "additionalinformation": "",
+        "lowfloorstatus": "no",
+        "route": "15",
+        "sourcetimestamp": "16/05/2018 19:31:44",
+        "monitored": "true"
+    }
+  ]
+}
