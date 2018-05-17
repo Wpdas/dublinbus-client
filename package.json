@@ -1,5 +1,5 @@
 {
-  "name": "dublinbus-client",
+  "name": "dublinbus-rtpi",
   "version": "1.0.0",
   "description": "RTPI JavaScript Client to get Dublin Bus informations.",
   "main": "index.js",
@@ -14,6 +14,7 @@
     "client",
     "lib",
     "api",
+    "rtpi",
     "ireland"
   ],
   "author": "Wenderson Pires",
@@ -30,6 +31,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Wpdas/dublinbus-client"
+    "url": "https://github.com/Wpdas/dublinbus-rtpi"
   }
 }
