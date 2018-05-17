@@ -16,13 +16,13 @@ It's possible to get informations about:
 ## Examples
 You have to install the module before you can use it:
 ```bash
-npm install --save dublinbusclient
+npm install --save dublinbuz
 ```
 
 How to use it:
 
 ```javascript
-const dublinBusClient = require('dublinbusclient');
+const dublinBusClient = require('dublinbuz');
 
 // Realtime information by stop number/stop id
 dublinBusClient.realtimeBusInformation.getInformationByStopId(515)

@@ -1,8 +1,8 @@
 {
-  "name": "dublinbusclient",
+  "name": "dublinbuz",
   "version": "1.0.3",
   "description": "RTPI JavaScript Client to get Dublin Bus informations.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "lint": "eslint lib/* test/**/**/**/**/*.js",
     "test": "npm run lint && mocha"
@@ -15,9 +15,10 @@
     "lib",
     "api",
     "rtpi",
-    "ireland"
+    "ireland",
+    "real time"
   ],
-  "author": "Wenderson Pires",
+  "author": "Wenderson Pires <wendersonpdas@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "nconf": "^0.10.0",
@@ -32,5 +33,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Wpdas/dublinbus-client"
+  },
+  "bugs": {
+    "url": "https://github.com/Wpdas/dublinbus-client/issues"
   }
 }
