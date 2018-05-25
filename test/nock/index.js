@@ -2,7 +2,7 @@
 
 const nock = require('nock');
 const config = require('../../lib/config');
-const BASE_URL = config.get('BASE_URL');
+const BASE_URL = config.BASE_URL;
 
 let Nocks = function() {
   this.getInformationByStopId = function(stopid, routeid, options) {
