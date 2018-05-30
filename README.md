@@ -2,10 +2,10 @@
 ![Dublin Bus Logo](https://www.dublinbus.ie/Templates/Public/Styles/Images/logo_dublinbus.jpg)
 
 ## About 
-This module provides informations from the 
+This module provides information from the 
 [Dublin Bus REST API](https://data.gov.ie/dataset/real-time-passenger-information-rtpi-for-dublin-bus-bus-eireann-luas-and-irish-rail).
 
-It's possible to get informations about:
+It's possible to get information about:
 * Realtime information by stop number/stop id;
 * Filtered realtime information by route number/route id;
 * All Bus stops;
